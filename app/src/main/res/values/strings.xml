@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SingleModuleApp</string>
+    <string name="label_news_list">News List</string>
+    <string name="label_news_details">News Details</string>
 </resources>
